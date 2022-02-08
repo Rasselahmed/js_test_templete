@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.btnarea{
+    width: 200px;
+    margin: auto;
+    margin-top: 150px;
+}
+.displayarea{
+    width: 250px;
+    height: 250px;
+    border: 2px solid;
+    margin: auto;
+    margin-top: 15px;
+}
